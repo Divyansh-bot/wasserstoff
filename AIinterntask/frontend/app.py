@@ -4,7 +4,7 @@ import streamlit as st
 import requests
 import os
 
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://wasserstoff-ctxe.onrender.com"
 
 st.title("📄 Documind AI - Ask Questions on Your Documents")
 
